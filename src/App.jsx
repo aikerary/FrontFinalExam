@@ -1,11 +1,11 @@
 import React from 'react'
-import './App.css'
+import Table from './Components/Table'
 
 function App() {
 
   return (
     <React.Fragment>
-      <h1>React App</h1>
+      <Table />
     </React.Fragment>
   )
 }
